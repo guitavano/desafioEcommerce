@@ -8,15 +8,15 @@ function App(props) {
     const history = useHistory();
     const [product, setProduct] = useState([]);
 
-    /* function saveProducts() {
-         axios.get("https://my.api.mockaroo.com/products.json?key=6d944250")
-             .then(response => {
-                 const products = response.data;
-                 localStorage.setItem('products', JSON.stringify(products))
-             })
-     } 
- 
-     saveProducts() */
+    function saveProducts() {
+        axios.get("https://my.api.mockaroo.com/products.json?key=6d944250")
+            .then(response => {
+                const products = response.data;
+                localStorage.setItem('products', JSON.stringify(products))
+            })
+    }
+
+    saveProducts()
 
     useEffect(() => {
         let products = JSON.parse(localStorage.getItem('products'))
