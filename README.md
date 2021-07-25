@@ -19,11 +19,11 @@
 ##### Páginas
 
 <div style="display:flex">
-    <div style="width: 50%; margin: 10px">
+    <div>
         <img src="/imagens/tela1.PNG" width="350px" style="margin:10px">
         <center>Home</center>
     </div>
-    <div style="width:50%; margin: 10px">
+    <div>
         <img src="/imagens/tela3.PNG" width="350px" style="margin:10px">
         <center>Cadastro</center>
         <img src="/imagens/tela2.PNG" width="350px" style="margin:10px">
