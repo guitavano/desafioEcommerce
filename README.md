@@ -19,14 +19,14 @@
 ##### Páginas
 
 <div style="display:flex">
-    <div>
-        <img src="/imagens/tela1.PNG" width="500" style="margin:10px">
+    <div style="width: 50%; margin: 10px">
+        <img src="/imagens/tela1.PNG" style="margin:10px; width:100%">
         <center>Home</center>
     </div>
-    <div>
-        <img src="/imagens/tela3.PNG" width="500" style="margin:10px">
+    <div style="width:50%; margin: 10px">
+        <img src="/imagens/tela3.PNG" style="margin:10px; width:100%">
         <center>Cadastro</center>
-        <img src="/imagens/tela2.PNG" width="500" style="margin:10px">
+        <img src="/imagens/tela2.PNG" style="margin:10px; width:100%">
         <center>Carrinho</center>
     </div>
 </div>
