@@ -14,14 +14,19 @@
 * Página de cadastro recebe alguns dados do usuário
 * Todos os dados são salvos no LocalStorage
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b66a01a656cdbefe7a71124b7abde16b11533196
 [Clique aqui]() para visualizar o projeto no ar.
 
 <br>
 
+
 ##### Páginas
 
 <div style="display:flex">
+<<<<<<< HEAD
     <div style="width: 50%; margin: 10px">
         <img src="/imagens/tela1.PNG" width="100%" style="margin:10px">
         <center>Home</center>
@@ -30,6 +35,16 @@
         <img src="/imagens/tela3.PNG" width="100%" style="margin:10px">
         <center>Cadastro</center>
         <img src="/imagens/tela2.PNG" width="350px" style="margin:10px">
+=======
+    <div>
+        <img src="/imagens/tela1.PNG" width="100%" style="margin:10px">
+        <center>Home</center>
+    </div>
+    <div>
+        <img src="/imagens/tela3.PNG" width="100%" style="margin:10px">
+        <center>Cadastro</center>
+        <img src="/imagens/tela2.PNG" width="100%" style="margin:10px">
+>>>>>>> b66a01a656cdbefe7a71124b7abde16b11533196
         <center>Carrinho</center>
     </div>
 </div>
