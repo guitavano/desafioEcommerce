@@ -24,9 +24,9 @@
         <center>Home</center>
     </div>
     <div style="width:50%; margin: 10px">
-        <img src="/imagens/tela3.PNG" width="200px" style="margin:10px">
+        <img src="/imagens/tela3.PNG" width="350px" style="margin:10px">
         <center>Cadastro</center>
-        <img src="/imagens/tela2.PNG" width="200px" style="margin:10px">
+        <img src="/imagens/tela2.PNG" width="350px" style="margin:10px">
         <center>Carrinho</center>
     </div>
 </div>
