@@ -20,7 +20,7 @@
 
 <div style="display:flex">
     <div style="width: 50%; margin: 10px">
-        <img src="/imagens/tela1.PNG" width="200px" style="margin:10px">
+        <img src="/imagens/tela1.PNG" width="350px" style="margin:10px">
         <center>Home</center>
     </div>
     <div style="width:50%; margin: 10px">
