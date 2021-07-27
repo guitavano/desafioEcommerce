@@ -14,11 +14,8 @@
 * Página de cadastro recebe alguns dados do usuário
 * Todos os dados são salvos no LocalStorage
 
-<<<<<<< HEAD
 
-=======
->>>>>>> b66a01a656cdbefe7a71124b7abde16b11533196
-[Clique aqui]() para visualizar o projeto no ar.
+[Clique aqui](commercetavano.netlify.app) para visualizar o projeto no ar.
 
 <br>
 
