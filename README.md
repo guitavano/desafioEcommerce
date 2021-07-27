@@ -1,5 +1,6 @@
 # Desafio E-Commerce com React
 <hr>
+
 #### Minha primeira Aplicação Web com React, desenvolvida para entrega de um Desafio durante o programa de capacitação Hiring Coders.
 
 <br>
@@ -24,13 +25,13 @@
 
 <div style="display:flex">
     <div>
-        <img src="/imagens/tela1.PNG" width="100%" style="margin:10px">
         <center>Home</center>
+        <img src="/imagens/tela1.PNG" width="100%" style="margin:10px">
     </div>
     <div>
-        <img src="/imagens/tela3.PNG" width="100%" style="margin:10px">
         <center>Cadastro</center>
-        <img src="/imagens/tela2.PNG" width="100%" style="margin:10px">
+        <img src="/imagens/tela3.PNG" width="100%" style="margin:10px">
         <center>Carrinho</center>
+        <img src="/imagens/tela2.PNG" width="100%" style="margin:10px">
     </div>
 </div>
