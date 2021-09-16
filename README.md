@@ -16,7 +16,7 @@
 * Todos os dados são salvos no LocalStorage
 
 
-[Clique aqui](commercetavano.netlify.app) para visualizar o projeto no ar.
+[Clique aqui](https://ecommercetavano.netlify.app/) para visualizar o projeto no ar.
 
 <br>
 
